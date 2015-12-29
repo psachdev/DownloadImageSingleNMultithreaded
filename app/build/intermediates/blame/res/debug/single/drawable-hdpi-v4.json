@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/A2-Android-App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_download.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/A2-Android-App/app/src/main/res/drawable-hdpi/ic_download.png"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/A2-Android-App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/loading.gif",
+        "source": "/Users/prasachd/AndroidStudioProjects/A2-Android-App/app/src/main/res/drawable-hdpi/loading.gif"
+    },
+    {
+        "merged": "/Users/prasachd/AndroidStudioProjects/A2-Android-App/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_white.png",
+        "source": "/Users/prasachd/AndroidStudioProjects/A2-Android-App/app/src/main/res/drawable-hdpi/ic_delete_white.png"
+    }
+]
